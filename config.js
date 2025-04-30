@@ -42,8 +42,8 @@ global.sessions = 'CrowSession'
 global.jadi = 'CrowJadiBot' 
 global.yukiJadibts = true // Activado
 global.ch = {
-ch1: '120363387375075395@newsletter',
-ch2: '120363368073378190@newsletter'
+ch1: '',
+ch2: ''
 }
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
