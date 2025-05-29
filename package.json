@@ -1,5 +1,5 @@
 {
-"name": "CrowBot-MF",
+"name": "Obito",
 "version": "2.5.0",
 "description": "Super WhatsApp Bot Multi Device",
 "main": "index.js",
@@ -18,13 +18,13 @@
 "eslint": "eslint .",
 "eslintfix": "eslint --fix ."
 },
-"homepage": "https://github.com/WillZek/CrowBot-ST",
+"homepage": "",
 "author": {
-"name": "WillZek"
+"name": "Obito"
 },
 "repository": {
 "type": "git",
-"url": "git+https://github.com/WillZek/CrowBot-ST.git"
+"url": ""
 },
 "bugs": {
 "url": "https://github.com/WillZek/CrowBot-ST/issues"
